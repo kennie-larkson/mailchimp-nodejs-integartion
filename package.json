@@ -1,0 +1,17 @@
+{
+  "name": "mailchimp-integration",
+  "version": "1.0.0",
+  "description": "mailchimp integration with node.js",
+  "main": "app.js",
+  "author": "Lawal, Abdulrafiu Kehinde ",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start-dev": " nodemon app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}
